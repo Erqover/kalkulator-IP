@@ -15,4 +15,5 @@ class Kalkulator {
     public:
     Kalkulator(vector<int>, vector<int>);
     void testout();
+    void oblicz_addr();
 };

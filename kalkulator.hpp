@@ -10,7 +10,7 @@ class Kalkulator {
     vector<int> mask_dec;
     vector<string> ip_bin = {};
     vector<string> mask_bin = {};
-    int mask_skr;
+    int mask_skr = 0;
 
     public:
     Kalkulator(vector<int>, vector<int>);
